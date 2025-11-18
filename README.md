@@ -1,0 +1,2 @@
+# topic_modelling_pipeline
+ A reusable LDA topic modelling pipeline covering preprocessing, eda, data visualisation, modelling, tuning and evaluation. This repo has a demo usecase for modelling topics within trip advisor reviews. Run the scripts in sequence preprocessing.py, eda.py, and modelling.py. Ensure to change file_name and text_col to the name of your data file and the text column if using your own dataset.
